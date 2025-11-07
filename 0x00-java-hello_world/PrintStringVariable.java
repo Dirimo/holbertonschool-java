@@ -3,5 +3,4 @@ public class PrintStringVariable {
 		String text = "Holberton School";
 		System.out.println(text + "\n" + text + "\n" + text.substring(0, 9));
 	}
-}
-	
+}	
