@@ -5,3 +5,4 @@ public class PrintStringConcat {
 		System.out.println("Welcome to "+ text1 + " " + text2 + " ! ");
 	}
 }
+	
